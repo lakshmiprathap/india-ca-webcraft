@@ -1,4 +1,3 @@
-
 import { Mail, Phone } from "lucide-react";
 
 const Footer = () => {
@@ -10,7 +9,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8 mb-12">
           {/* Company Info */}
           <div>
-            <h3 className="text-2xl font-bold mb-6">Vishwa<span className="text-ca-gold">Tax</span></h3>
+            <h3 className="text-2xl font-bold mb-6">Prasanth<span className="text-ca-gold"> V & Associates</span></h3>
             <p className="mb-4 text-gray-300">
               Professional chartered accountancy services tailored for Indian businesses and individuals.
             </p>
@@ -72,7 +71,7 @@ const Footer = () => {
         <div className="border-t border-gray-700 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              &copy; {currentYear} VishwaTax. All rights reserved.
+              &copy; {currentYear} Prasanth V & Associates. All rights reserved.
             </p>
             <div className="space-x-4">
               <a href="#" className="text-gray-400 text-sm hover:text-gray-300">Privacy Policy</a>
