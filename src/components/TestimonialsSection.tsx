@@ -7,7 +7,7 @@ const testimonials = [
   {
     name: "Vikram Mehta",
     company: "Mehta Enterprises",
-    quote: "VishwaTax has been an invaluable partner for our business. Their expertise in Indian tax laws saved us significant amounts and kept us fully compliant.",
+    quote: "Prasanth V & Associates has been an invaluable partner for our business. Their expertise in Indian tax laws saved us significant amounts and kept us fully compliant.",
     rating: 5
   },
   {
@@ -19,13 +19,13 @@ const testimonials = [
   {
     name: "Ramesh Joshi",
     company: "JoshiTech Solutions",
-    quote: "As we scaled our startup, VishwaTax provided the financial guidance we needed. Their strategic tax planning was crucial to our growth in the Indian market.",
+    quote: "As we scaled our startup, Prasanth V & Associates provided the financial guidance we needed. Their strategic tax planning was crucial to our growth in the Indian market.",
     rating: 5
   },
   {
     name: "Kavita Sharma",
     company: "Sharma Textiles",
-    quote: "Our family business has trusted VishwaTax for over 15 years. Their personalized service and deep understanding of our industry make them outstanding partners.",
+    quote: "Our family business has trusted Prasanth V & Associates for over 15 years. Their personalized service and deep understanding of our industry make them outstanding partners.",
     rating: 5
   }
 ];

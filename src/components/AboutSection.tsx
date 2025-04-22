@@ -3,7 +3,6 @@ import { Button } from "./ui/button";
 import { Check } from "lucide-react";
 
 const features = [
-  "25+ years of experience in Indian taxation",
   "ICAI certified professionals",
   "In-depth knowledge of Indian tax laws",
   "Personalized client approach",
@@ -16,9 +15,9 @@ const AboutSection = () => {
     <section id="about" className="section bg-ca-gray">
       <div className="grid md:grid-cols-2 gap-12 items-center">
         <div>
-          <h2 className="text-3xl md:text-4xl font-bold mb-6 text-ca-navy">About VishwaTax</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-6 text-ca-navy">About Prasanth V & Associates</h2>
           <p className="text-gray-700 mb-6">
-            Since 1998, VishwaTax has been providing exceptional chartered accountancy services to businesses and individuals across India. Our team of dedicated professionals combines expertise with personalized attention to deliver solutions that drive financial success.
+            Since 2022, Prasanth V & Associates has been providing exceptional chartered accountancy services to businesses and individuals across India. Our team of dedicated professionals combines expertise with personalized attention to deliver solutions that drive financial success.
           </p>
           <p className="text-gray-700 mb-8">
             We pride ourselves on staying ahead of the ever-evolving Indian tax landscape, ensuring our clients always receive up-to-date and compliant financial advice.

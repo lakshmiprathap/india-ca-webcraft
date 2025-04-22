@@ -161,8 +161,8 @@ const ContactSection = () => {
               <Mail className="h-6 w-6 text-ca-gold shrink-0" />
               <div>
                 <p className="font-medium mb-1">Email</p>
-                <p>info@vishwatax.com</p>
-                <p>support@vishwatax.com</p>
+                <p>info@Prasanth V & Associates.com</p>
+                <p>support@Prasanth V & Associates.com</p>
               </div>
             </div>
             
