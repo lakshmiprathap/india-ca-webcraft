@@ -20,7 +20,7 @@ const Navbar = () => {
             <a href="#services" className="text-gray-700 hover:text-ca-navy font-medium transition-colors">Services</a>
             <a href="#about" className="text-gray-700 hover:text-ca-navy font-medium transition-colors">About Us</a>
             <a href="#team" className="text-gray-700 hover:text-ca-navy font-medium transition-colors">Our Team</a>
-            <a href="#testimonials" className="text-gray-700 hover:text-ca-navy font-medium transition-colors">Testimonials</a>
+            {/* <a href="#testimonials" className="text-gray-700 hover:text-ca-navy font-medium transition-colors">Testimonials</a> */}
             <Button className="ml-4 bg-ca-navy hover:bg-ca-navy/90">
               <a href="#contact" className="text-white">Contact Us</a>
             </Button>
@@ -45,7 +45,7 @@ const Navbar = () => {
             <a href="#services" className="block px-4 py-2 text-gray-700 hover:bg-ca-gray hover:text-ca-navy">Services</a>
             <a href="#about" className="block px-4 py-2 text-gray-700 hover:bg-ca-gray hover:text-ca-navy">About Us</a>
             <a href="#team" className="block px-4 py-2 text-gray-700 hover:bg-ca-gray hover:text-ca-navy">Our Team</a>
-            <a href="#testimonials" className="block px-4 py-2 text-gray-700 hover:bg-ca-gray hover:text-ca-navy">Testimonials</a>
+            {/* <a href="#testimonials" className="block px-4 py-2 text-gray-700 hover:bg-ca-gray hover:text-ca-navy">Testimonials</a> */}
             <a href="#contact" className="block px-4 py-3 font-medium bg-ca-navy text-white">Contact Us</a>
           </div>
         </div>

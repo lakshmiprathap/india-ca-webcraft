@@ -3,32 +3,32 @@ import { Card, CardContent } from "./ui/card";
 
 const team = [
   {
-    name: "Rajesh Sharma",
-    position: "Managing Partner",
-    image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+    name: "KEYUR P VORA",
+    position: "Business Consultant",
+    image: "src/assets/voray.jpeg",
     qualifications: "FCA, B.Com",
-    experience: "25+ years"
-  },
-  {
-    name: "Priya Patel",
-    position: "Tax Specialist",
-    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=776&q=80",
-    qualifications: "CA, LLB",
-    experience: "15+ years"
-  },
-  {
-    name: "Amit Kumar",
-    position: "Audit Head",
-    image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
-    qualifications: "CA, DISA",
-    experience: "18+ years"
-  },
-  {
-    name: "Sneha Gupta",
-    position: "GST Consultant",
-    image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1061&q=80",
-    qualifications: "CA, Certified GST Professional",
     experience: "10+ years"
+  },
+  {
+    name: "Prasanth V",
+    position: "Managing Partner",
+    image: "src/assets/prasanthv.jpeg",
+    qualifications: "CA, LLB",
+    experience: "2+ years"
+  },
+  {
+    name: "CA KAILASH KUMAWAT",
+    position: "Audit consultant",
+    image: "src/assets/kailash.jpeg",
+    qualifications: "CA, DISA",
+    experience: "4+ years"
+  },
+  {
+    name: "CA VIRENDRA SINGH",
+    position: "GST Consultant",
+    image: "src/assets/vira.jpeg",
+    qualifications: "CA, Certified GST Professional",
+    experience: "3+ years"
   }
 ];
 
@@ -52,7 +52,6 @@ const TeamSection = () => {
               <div className="p-6">
                 <h3 className="text-xl font-semibold text-ca-navy mb-1">{member.name}</h3>
                 <p className="text-ca-gold font-medium mb-2">{member.position}</p>
-                <p className="text-gray-600 text-sm">Qualifications: {member.qualifications}</p>
                 <p className="text-gray-600 text-sm">Experience: {member.experience}</p>
               </div>
             </CardContent>
