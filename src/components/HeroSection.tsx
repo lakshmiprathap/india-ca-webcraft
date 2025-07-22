@@ -23,7 +23,7 @@ const HeroSection = () => {
           </div>
           <div className="flex justify-center">
             <img 
-              src="src/assets/team_banner.jpg" 
+              src="/assets/team_banner.jpg" 
               alt="Financial professionals at work" 
               className="rounded-lg shadow-2xl max-w-full h-auto"
             />

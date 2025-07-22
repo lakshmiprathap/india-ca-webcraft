@@ -5,28 +5,28 @@ const team = [
   {
     name: "KEYUR P VORA",
     position: "Business Consultant",
-    image: "src/assets/voray.jpeg",
+    image: "/assets/voray.jpeg",
     qualifications: "FCA, B.Com",
     experience: "10+ years"
   },
   {
     name: "Prasanth V",
     position: "Managing Partner",
-    image: "src/assets/prasanthv.jpeg",
+    image: "/assets/prasanthv.jpeg",
     qualifications: "CA, LLB",
     experience: "2+ years"
   },
   {
     name: "CA KAILASH KUMAWAT",
     position: "Audit consultant",
-    image: "src/assets/kailash.jpeg",
+    image: "/assets/kailash.jpeg",
     qualifications: "CA, DISA",
     experience: "4+ years"
   },
   {
     name: "CA VIRENDRA SINGH",
     position: "GST Consultant",
-    image: "src/assets/vira.jpeg",
+    image: "/assets/vira.jpeg",
     qualifications: "CA, Certified GST Professional",
     experience: "3+ years"
   }
